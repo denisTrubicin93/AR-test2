@@ -42,7 +42,8 @@
             </a-entity>
         </a-nft>
         <a-entity camera></a-entity>
-    </a-scene>   
+    </a-scene> 
+    <script src="https://github.com/denisTrubicin93/AR-test2/blob/master/index.js"></script>
 </body>
 
 </html>
