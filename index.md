@@ -43,7 +43,11 @@
         </a-nft>
         <a-entity camera></a-entity>
     </a-scene>
-
+    fetch('https://denistrubicin93.github.io',{
+            headers: {
+                Access-Control-Allow-Origin: *
+            },
+        }
 </body>
 
 </html>
