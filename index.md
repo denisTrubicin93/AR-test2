@@ -46,7 +46,7 @@
     <script>
     fetch('https://denistrubicin93.github.io',{
             headers: {
-                Access-Control-Allow-Origin: *
+                'Access-Control-Allow-Origin: *'
             },
         }
     </script>    
