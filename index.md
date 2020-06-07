@@ -44,7 +44,7 @@
         <a-entity camera></a-entity>
     </a-scene>
     <script>
-    fetch('https://denistrubicin93.github.io/AR-test2/',{
+    fetch('https://github.com/denisTrubicin93/AR-test2/tree/master/image/marker/img1.fset',{
             headers: {
                 'Access-Control-Allow-Origin: https://denistrubicin93.github.io'
             },
