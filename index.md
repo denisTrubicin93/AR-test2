@@ -44,7 +44,7 @@
         <a-entity camera></a-entity>
     </a-scene>
     <script>
-    fetch('https://denistrubicin93.github.iohttps://denistrubicin93.github.io/AR-test2/',{
+    fetch('https://denistrubicin93.github.io/AR-test2/',{
             headers: {
                 'Access-Control-Allow-Origin: https://denistrubicin93.github.io'
             },
