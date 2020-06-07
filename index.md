@@ -47,7 +47,6 @@
             headers: {
                 Access-Control-Allow-Origin: *
             },
-        }
 </body>
 
 </html>
