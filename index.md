@@ -36,7 +36,7 @@
     </div>
     <a-scene vr-mode-ui="enabled: false;" renderer="logarithmicDepthBuffer: true;" embedded
         arjs="trackingMethod: best; sourceType: webcam;debugUIEnabled: false;">
-        <a-nft type="nft" url="https://github.com/denisTrubicin93/AR-test2/tree/master/image/marker/img1" smooth="true" smoothCount="10" smoothTolerance=".01"
+        <a-nft type="nft" url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/trex-image/trex" smooth="true" smoothCount="10" smoothTolerance=".01"
             smoothThreshold="5">
             <a-entity gltf-model="https://github.com/denisTrubicin93/AR-test2/blob/master/image/model/Diplo.gltf" scale="100 100 100" position="0 0 0">
             </a-entity>
