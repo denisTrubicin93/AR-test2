@@ -11,9 +11,6 @@ app.use((req, res, next) => {
 app.get('/AR-test2', (req, res) => {
   request(
     { url: 'https://github.com/denisTrubicin93/AR-test2/blob/master/image/model/Diplo.gltf' },
-    { url: 'https://github.com/denisTrubicin93/AR-test2/tree/master/image/marker/img1.fset' },
-    { url: 'https://github.com/denisTrubicin93/AR-test2/tree/master/image/marker/img1.fset' },
-    { url: 'https://github.com/denisTrubicin93/AR-test2/tree/master/image/marker/img1.fset' },
     (error, response, body) => {
       if (error || response.statusCode !== 200) {
         return res.status(500).json({ type: 'error', message: err.message });
